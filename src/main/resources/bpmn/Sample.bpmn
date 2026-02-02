@@ -470,7 +470,7 @@ kcontext.setVariable(&quot;it_approval&quot;, false);</bpmn2:script>
         <dc:Bounds height="102" width="154" x="824" y="12.000000000000057" />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="shape__5BDBE48C-CC83-46A9-9D56-F846F8FC1045" bpmnElement="_5BDBE48C-CC83-46A9-9D56-F846F8FC1045">
-        <dc:Bounds height="102" width="154" x="200" y="-40" />
+        <dc:Bounds height="102" width="154" x="140" y="0" />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="shape__834B21EF-9229-44F8-A5DB-D96EBB39A347" bpmnElement="_834B21EF-9229-44F8-A5DB-D96EBB39A347">
         <dc:Bounds height="102" width="154" x="746" y="288.00000000000006" />
@@ -511,7 +511,7 @@ kcontext.setVariable(&quot;it_approval&quot;, false);</bpmn2:script>
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="edge_shape__1639F738-45F3-4CD6-A80E-CCEBAA605D56_to_shape__5BDBE48C-CC83-46A9-9D56-F846F8FC1045" bpmnElement="_8863B46B-9B0F-40B9-AAB1-A7503CF9AA0A">
         <di:waypoint x="48" y="56" />
-        <di:waypoint x="277" y="11" />
+        <di:waypoint x="217" y="51" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="edge_shape__57DBE42C-6850-4A08-AC73-2BB0FFDFCC8C_to_shape__B8C4F63C-81AD-4291-9C1B-84967277EEF6" bpmnElement="_ACEE7578-B7D2-4EDF-B104-9ECF3DD8A383">
         <di:waypoint x="514" y="63.00000000000006" />
@@ -526,7 +526,7 @@ kcontext.setVariable(&quot;it_approval&quot;, false);</bpmn2:script>
         <di:waypoint x="1032" y="63" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="edge_shape__5BDBE48C-CC83-46A9-9D56-F846F8FC1045_to_shape__A51A809E-03C0-4EA7-91F1-7B3C5E29AD04" bpmnElement="_5162ABF0-DD2E-4BDC-9A46-DDCFCB010287">
-        <di:waypoint x="354" y="11" />
+        <di:waypoint x="294" y="51" />
         <di:waypoint x="343.75" y="63.00000000000006" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="edge_shape__F1B20FAB-EDDC-4114-8AE8-B00E3F94975E_to_shape__834B21EF-9229-44F8-A5DB-D96EBB39A347" bpmnElement="_730573E5-BCD9-42BC-9AC8-AE003784831D">
